@@ -1,7 +1,7 @@
 const db = require("quick.db");
 const discord = require("discord.js");
 const client = new discord.Client({ disableEveryone: true });
-client.login(process.env.Token); //go to https://discord.dev and click on run
+client.login("OTI4NDM4MTc4NTMxMTE1MDQ4.YdYxbw.CyTctX5Z69PEC2ggTyyiR3AdoqI"); //go to https://discord.dev and click on run
 const fetch = require("node-fetch");
 const fs = require("fs");
 
